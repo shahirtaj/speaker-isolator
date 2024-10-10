@@ -12,13 +12,13 @@ This tool allows you to isolate speakers from a YouTube video using AssemblyAI's
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AayushGupta16/speaker-isolator-api.git
+    git clone https://github.com/shahirtaj/speaker-isolator.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd speaker-isolator-api
+    cd speaker-isolator
     ```
 
 3. Create a virtual environment:
